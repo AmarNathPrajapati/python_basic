@@ -1,0 +1,1 @@
+this is sample file for deleting or you can say renaming by python
